@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:macverin_assignment/core/constent/constent.dart';
+import 'package:macverin_assignment/core/main_widgets/audioplayers.dart';
 import 'package:macverin_assignment/core/main_widgets/bottom_navigation.dart';
 import 'package:macverin_assignment/presentations/home/tabs/hometab.dart';
 import 'package:macverin_assignment/presentations/home/widgets/home-card.dart';
@@ -44,7 +45,10 @@ class HomeScreen extends StatelessWidget {
               height20,
               const HomeTabs(),
               height20,
-              HomeCardWidget(),
+             // HomeCardWidget(),
+              Listofhomecard(),
+
+              
             ],
           ),
         ),
