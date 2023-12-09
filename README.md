@@ -2,6 +2,23 @@
 
 A new Flutter project.
 
+
+Screenshots
+
+![Screenshot 2023-12-09 191826](https://github.com/Ishaqsah/Macverin_assignment/assets/139967174/99fb12a7-6538-431a-bb5f-52499d548006)
+
+
+![Screenshot 2023-12-09 191838](https://github.com/Ishaqsah/Macverin_assignment/assets/139967174/c793bdeb-82bf-4168-9f57-81e16cf79aef)
+
+
+
+
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
